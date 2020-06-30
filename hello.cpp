@@ -1,3 +1,7 @@
+/*
+ *	Juste a comment :)	
+ */
+
 #include <iostream>
 using namespace std;
 
